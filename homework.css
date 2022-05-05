@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 80%;
+    height: 130vh;
+    margin: auto;
+}
+.card_img{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+}
+.img1{
+    width: 40%;
+    height: 40vh;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.img{
+    width: 370px;
+    height: 260px;
+    object-fit: cover;
+}
+
+.items{
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    display: flex;
+    margin-top: 20px;
+    flex-wrap:wrap;
+}
+.item{
+    width: 33%;
+    height: 70px;
+    justify-content: space-between;
+    box-shadow: 10px 10px 20px #9995;
+    transition: .5s;
+}
+.item:hover{
+    box-shadow: 10px 10px 25px #9995;
+}
+
+.img2{
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+}
+.img3{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: .5s;
+}
+.img3:hover{
+    transform: scale(1.1);
+}
+
+.h4:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+
+
+.h6{
+    font-size: 10px;
+}
+
+.image{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image2{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
